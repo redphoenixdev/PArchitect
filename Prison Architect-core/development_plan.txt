@@ -1,0 +1,10 @@
+Prison Architect is a game where you create and manage your own prison.
+
+Version 01-09alpha:
+	- Prisoner, Guard, Wall, Floor, Building, Truck, Bus classes;
+	- Interfaces for those classes;
+	- TMX default map;
+	- Movement of Guards with tap on the screen;
+	- Delivery of the prisoners via Bus;
+	- Delivery of supplies via Truck;
+	- Create Building out of Walls and Floor;
